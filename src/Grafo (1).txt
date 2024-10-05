@@ -1,0 +1,19 @@
+Ciudad Quesada,Zarcero,28,46
+Zarcero,Naranjo,19,31
+Naranjo,Sarchí,6,11
+Sarchí,Grecia,15,27
+Grecia,Tacares,12,26
+Tacares,Alajuela,11,27
+San Ramón,Zarcero,22,37
+San Ramón,Palmares,7,12
+Palmares,Alajuela,39,120
+Alajuela,Palmares,39,40
+Grecia,Palmares,26,30
+Palmares,Naranjo,12,16
+Sarchí,Naranjo,6,22
+Grecia,Sarchí,15,45
+Tacares,Grecia,12,26
+Alajuela,Tacares,11,27
+Grecia,San Pedro Poás,14,30
+San Pedro Poás,Alajuela,11,23
+Palmares,San Ramón,7,8
